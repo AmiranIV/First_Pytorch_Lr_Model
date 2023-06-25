@@ -1,4 +1,4 @@
-# First_Pytorch_Lr_Model
+# First PyTorch Model (Linear Regression)
 First PyTorch Linear Regression model, with explanations and visualizations. 
 
 #Got a lot of help from this video:
